@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.js';
 import '@fortawesome/fontawesome-free/css/all.min.css';
-import profileImg from '../../images/about-BgAkqdr2.jpg';
+import profileImg from '../../assets/images/about-BgAkqdr2.jpg';
 import { Link } from 'react-router-dom';
 import './SideBar.css';
 

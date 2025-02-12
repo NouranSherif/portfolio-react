@@ -5,12 +5,13 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 
 import './Work.css';
 import '../About/About.css';
-import img1 from '../../images/img-1-C4nS0eD8.jpg';
-import img2 from '../../images/img-2-D-4H1m4L.jpg';
-import img3 from '../../images/img-3-pR2ZEVY9.jpg';
-import img4 from '../../images/img-4-tHccITd-.jpg';
-import img5 from '../../images/img-5-lAucr__a.jpg';
-import img6 from '../../images/img-6-DFW03AZ3.jpg';
+
+import img1 from '../../assets/images/img-1-C4nS0eD8.jpg';
+import img2 from '../../assets/images/img-2-D-4H1m4L.jpg';
+import img3 from '../../assets/images/img-3-pR2ZEVY9.jpg';
+import img4 from '../../assets/images/img-4-tHccITd-.jpg';
+import img5 from '../../assets/images/img-5-lAucr__a.jpg';
+import img6 from '../../assets/images/img-6-DFW03AZ3.jpg';
 
 export default function Work() {
   const [activeButton, setActiveButton] = useState('graphic-design');

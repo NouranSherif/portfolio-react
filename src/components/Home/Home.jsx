@@ -3,8 +3,8 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.js';
 import '@fortawesome/fontawesome-free/css/all.min.css';
-import slideImg1 from '../../images/img_bg_1-PzvG2r05.jpg';
-import slideImg2 from '../../images/img_bg_2-DzCs5o-0.jpg';
+import slideImg1 from '../../assets/images/img_bg_1-PzvG2r05.jpg';
+import slideImg2 from '../../assets/images/img_bg_2-DzCs5o-0.jpg';
 import './Home.css';
 
 export default function Home() {
